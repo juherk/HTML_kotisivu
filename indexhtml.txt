@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <img src="https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-6/324189130_3331973847073782_3481593854096547920_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=vQz0uEr7FacQ7kNvgG9VEvb&_nc_zt=23&_nc_ht=scontent-hel3-1.xx&_nc_gid=AdR8iNbLf7340rJfpQgUJYU&oh=00_AYCRjRcUIsjNKjIiRxR83QHYF_Q9pKo4Mv568UNrh15ypw&oe=671B50B3" width="150"/>
+    <h1>Juha Erkkilä</h1>
+    <h2>
+      <i class="fas fa-star"></i>
+      Tervetuloa!
+      <i class="fas fa-star"></i>
+    </h2>
+    <p>Alta löydät linkkejä minun Linkedin-profiilini ja tekemiini projekteihin</p>
+   <a href="https://www.linkedin.com/in/juha-erkkilä-a63890205" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+   <br>
+  <a href="https://github.com/juherk" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+   <br>
+   <p>Peliprojekteja</p>
+  <a href="https://youtu.be/ZLluD_ZH1bk" target="_blank"><i class="fab fa-youtube"></i> King Banana</a>
+  <a href="https://youtu.be/uT9d6exWWIo" target="_blank"><i class="fab fa-youtube"></i> Constellation</a>
+  <br>
+  <p>Sähköposti</p>
+  <a href="mailto:erkkila.juha.sakari@gmail.com" target="_blank"><i class="fab fa-envelope"></i> erkkila.juha.sakari@gmail.com</a>
+  <br>
+  <p>Puh: 044 296 1095</p>
+  </body>
+</html>
